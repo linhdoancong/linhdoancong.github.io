@@ -3,7 +3,7 @@ title: ASP.NET
 subtitle: 
 layout: default
 modal-id: 8
-date: 2014-07-17
+date: 2014-07-25
 img: logo-dotnet.png
 thumbnail: logo-dotnet.png
 alt: image-alt

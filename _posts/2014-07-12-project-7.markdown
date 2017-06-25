@@ -3,7 +3,7 @@ title: C#
 subtitle: 
 layout: default
 modal-id: 7
-date: 2014-07-16
+date: 2014-07-20
 img: c-Sharp.png
 thumbnail: c-Sharp.png
 alt: image-alt
