@@ -9,9 +9,9 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Ca Ngô
   pic: 1
-  position: Lead Designer
+  position: Project Manager
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Tiếp Nguyễn
   pic: 2
-  position: Lead Marketer
+  position: Project Manager
   social:
     - title: twitter
       url: #
@@ -31,9 +31,42 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Kim Kim
   pic: 3
-  position: Lead Developer
+  position: Leader Android
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Sơn Nguyễn
+  pic: 4
+  position: Leader Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Việt Vũ
+  pic: 5
+  position: Leader Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Khoa Vũ
+  pic: 6
+  position: Leader Data
   social:
     - title: twitter
       url: #
