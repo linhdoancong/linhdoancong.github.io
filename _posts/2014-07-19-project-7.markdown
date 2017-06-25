@@ -4,8 +4,8 @@ subtitle:
 layout: default
 modal-id: 7
 date: 2014-07-15
-img: c-Share.png
-thumbnail: c-Share.png
+img: c-Sharp.png
+thumbnail: c-Sharp.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
