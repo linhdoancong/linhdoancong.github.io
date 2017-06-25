@@ -1,11 +1,11 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: CSS3
+subtitle: 
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: css3.png
+thumbnail: css3.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
