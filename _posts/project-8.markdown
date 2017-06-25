@@ -1,11 +1,11 @@
 ---
-title: Node.js
+title: ASP.NET
 subtitle: 
 layout: default
-modal-id: 6
+modal-id: 8
 date: 2014-07-15
-img: node.png
-thumbnail: node.png
+img: logo-dotnet.png
+thumbnail: logo-dotnet.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

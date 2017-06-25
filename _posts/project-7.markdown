@@ -1,11 +1,11 @@
 ---
-title: Node.js
+title: C#
 subtitle: 
 layout: default
-modal-id: 6
+modal-id: 7
 date: 2014-07-15
-img: node.png
-thumbnail: node.png
+img: c-Share.png
+thumbnail: c-Share.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
