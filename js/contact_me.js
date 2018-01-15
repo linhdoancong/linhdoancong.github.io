@@ -21,7 +21,7 @@ $(function() {
                 url: "https://formspree.io/linhdoancong@gmail.com",
                 type: "POST",
                 data: {
-                    _subject: 'linhdoan.info Web Form : ' + name + ' ' + phone,
+                    _subject: 'https://linhdoancong.github.io Web Form : ' + name + ' ' + phone,
                     email: email,
                     message: message
                 },
